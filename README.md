@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, NestJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KhoaPhan1504](https://github.com/KhoaPhan1504)
+- 👨‍💻 All of my projects are available at [KhoaDev](https://github.com/KhoaPhan1504)
 
 - 📫 How to reach me **khoapa.bhsoft@gmail.com**
 
-- 📄 Know about my experiences [NodeJS, VueJS, Java, Javascript, Typescript]
+- 📄 Know about my experiences [NodeJS, VueJS, Java, Javascript, Typescript](https://bhs.thecv.app/resumeCV?tag=khoapa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
